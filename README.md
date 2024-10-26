@@ -23,7 +23,7 @@
 <a target="_blank" href="https://stackoverflow.com/users/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
 
-<h2 style="display: inline">Glad to see you here!</h2>
+# 👨🏻‍💻 Glad to see you here !
 
 
   <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="350" height="140" />
@@ -31,18 +31,13 @@
 <h4>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h4>
 
 <h4>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h4>
- 
 
---- 
 
 # ✍️ Random Dev Quote:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
-
----
-
 
 
 # 📊 GitHub Stats:
