@@ -26,15 +26,15 @@
 
 # 👨🏻‍💻 Glad to see you here !
 
-<h4>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h4>
+<h3>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h3>
 
-<h4>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h4>
+<h3>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h3>
 
 ---
 
 # 🤷🏻‍♂️ Talking about Personal Stuffs:
 
-  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="350" height="140" />
+  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="450" height="240" />
 
 - 👨🏻‍💻 I’m currently working on something cool.
 - 🚀 I’m currently learning Data Structures and Algorithms.
