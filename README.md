@@ -34,7 +34,7 @@
 
 # 🤷🏻‍♂️ Talking about Personal Stuffs:
 
-  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="450" height="240" />
+  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="400" height="200" />
 
 - 👨🏻‍💻 I’m currently working on something cool.
 - 🚀 I’m currently learning Data Structures and Algorithms.
