@@ -1,12 +1,13 @@
 <!-- # 💫 About Me: -->
 
-<!-- <h1 align="center">Hi 👋 there, I'm Saurabh Kumar</h1> -->
-
 <img src="https://visitcount.itsvg.in/api?id=SaurabhKrSing&icon=0&color=1" align="right" style="float: right;">
 
-<h1 align="center">
+<h1 align="center">Hi 👋 there, I'm Saurabh Kumar</h1>
+
+
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar !;" />
-</h1>
+</h1> -->
 
 ---
 
