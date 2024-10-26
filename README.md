@@ -9,9 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar !;" />
 </h1> -->
 
----
-
-<h3 align="center">A passionate software developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="20" style="vertical-align: middle;"></h3>
+<h3 align="center">A passionate software developer from India &nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="20" style="vertical-align: middle;"></h3>
 
 
 
@@ -24,16 +22,15 @@
 <a target="_blank" href="https://codepen.io/Enter_Username" style="display: inline-block;"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CODEPEN" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
----
 
 <h2 style="display: inline">Glad to see you here!</h2>
 
 
   <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="450" height="240" />
 
-<h6>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h6>
+<h4>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h4>
 
-<h6>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h6>
+<h4>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h4>
  
 
 --- 
