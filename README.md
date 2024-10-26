@@ -44,32 +44,38 @@
 ---
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKumarSingh2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKumarSingh2001&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaurabhKumarSingh2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhKumarSingh2001&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</div>
+
 
 ---
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 ---
 
