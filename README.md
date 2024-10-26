@@ -56,17 +56,6 @@
 
 ---
 
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaurabhKumar2001/SaurabhKumar2001/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -81,28 +70,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaurabhKrSing&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-
-
-
-# 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
-<img src="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/snake.svg" alt="Snake animation" />
-
-<img src="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/snake.svg" alt="Snake animation" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 ---
 
