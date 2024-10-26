@@ -26,12 +26,24 @@
 
 # 👨🏻‍💻 Glad to see you here !
 
-
-  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="350" height="140" />
-
 <h4>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h4>
 
 <h4>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h4>
+
+---
+
+# 🤷🏻‍♂️ Talking about Personal Stuffs:
+
+  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="350" height="140" />
+
+- 👨🏻‍💻 I’m currently working on something cool.
+- 🚀 I’m currently learning Data Structures and Algorithms.
+- 💬 Feel free to ask me anything; I’m happy to help!
+- 🌍 I enjoy traveling and exploring new cultures.
+- 📚 I love reading tech blogs and books to stay updated.
+- 🎨 In my free time, I dabble in graphic design and digital art.
+- 🧑🏻‍🤝‍🧑🏽 I enjoy collaborating with others on projects.
+
 
 ---
 
@@ -43,7 +55,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKumarSingh2001&theme=dark&hide_border=false"><br/>
