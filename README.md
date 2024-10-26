@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar !;" />
 </h1> -->
 
-<h3 align="center">A passionate software developer from India &nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="20" style="vertical-align: middle;"></h3>
+<h2 align="center">A passionate software developer from India &nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="20" style="vertical-align: middle;"></h2>
 
 
 
