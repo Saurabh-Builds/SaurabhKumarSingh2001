@@ -20,7 +20,7 @@
 <a target="_blank" href="https://twitter.com/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://codepen.io/Enter_Username" style="display: inline-block;"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CODEPEN" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<!-- <a target="_blank" href="https://stackoverflow.com/users/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p> -->
 
 ---
 
@@ -45,18 +45,42 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SaurabhKrSing&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=500)</br></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKrSing&theme=dark&hide_border=true&card_width=500)</br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKrSing&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)
+![](https://github-readme-stats.vercel.app/api?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKumarSingh2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKumarSingh2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaurabhKrSing&theme=radical&no-frame=true&no-bg=false&margin-w=4&card_width=500)
+![](https://github-profile-trophy.vercel.app/?username=SaurabhKumarSingh2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaurabhKumar2001/SaurabhKumar2001/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaurabhKrSing&limit=5&theme=nord&combine_all_yearly_contributions=true)
