@@ -22,6 +22,7 @@
 <a target="_blank" href="https://codepen.io/Enter_Username" style="display: inline-block;"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CODEPEN" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/Enter_URL" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
+---
 
 # 👨🏻‍💻 Glad to see you here !
 
@@ -32,6 +33,7 @@
 
 <h4>As a software engineer, I enjoy using my obsessive attention to detail and my passion for creating things that can change the world. That's why I love building projects that make a difference.</h4>
 
+---
 
 # ✍️ Random Dev Quote:
 
@@ -39,6 +41,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
+---
 
 # 📊 GitHub Stats:
 
