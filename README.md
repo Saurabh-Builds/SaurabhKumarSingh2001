@@ -11,7 +11,8 @@
 
 ---
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">A passionate software developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="20" style="vertical-align: middle;"></h3>
+
 
 
 <p align="center">
