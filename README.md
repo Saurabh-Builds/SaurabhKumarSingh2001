@@ -26,7 +26,7 @@
 <h2 style="display: inline">Glad to see you here!</h2>
 
 
-  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="450" height="240" />
+  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="350" height="140" />
 
 <h4>I am a full-stack software engineer and writer. I love programming, writing, speaking, and traveling.</h4>
 
