@@ -49,12 +49,8 @@
 
 # ✍️ Random Dev Quote:
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div> -->
-
-<div align="center" style="border: 5px solid black; border-radius: 15px; padding: 10px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="border-radius: 15px;">
 </div>
 
 ---
