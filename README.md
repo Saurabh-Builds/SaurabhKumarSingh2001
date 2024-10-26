@@ -54,9 +54,7 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhKumarSingh2001&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhKumarSingh2001" alt="sjdhf" /></a> </p>
 
 
 ---
@@ -84,8 +82,3 @@
 
 
 <a href="https://www.buymeacoffee.com/saurabhsingh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" align="right" ></a>
-
-
-
-
-
